@@ -1,0 +1,10 @@
+@startuml Factory Method
+
+abstract Pizza
+abstract PizzaStore
+
+Pizza <|-- NYPizzaStoreCheese
+NYPizzaStoreCheese <- NYPizzaStore
+PizzaStore <|-- NYPizzaStore
+
+@enduml

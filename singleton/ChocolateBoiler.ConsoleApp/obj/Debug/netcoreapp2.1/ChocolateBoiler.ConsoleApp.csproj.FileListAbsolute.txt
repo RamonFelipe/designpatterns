@@ -1,0 +1,11 @@
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\singleton\ChocolateBoiler.ConsoleApp\obj\Debug\netcoreapp2.1\ChocolateBoiler.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\singleton\ChocolateBoiler.ConsoleApp\obj\Debug\netcoreapp2.1\ChocolateBoiler.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\singleton\ChocolateBoiler.ConsoleApp\obj\Debug\netcoreapp2.1\ChocolateBoiler.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\singleton\ChocolateBoiler.ConsoleApp\obj\Debug\netcoreapp2.1\ChocolateBoiler.ConsoleApp.AssemblyInfo.cs
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\singleton\ChocolateBoiler.ConsoleApp\bin\Debug\netcoreapp2.1\ChocolateBoiler.ConsoleApp.deps.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\singleton\ChocolateBoiler.ConsoleApp\bin\Debug\netcoreapp2.1\ChocolateBoiler.ConsoleApp.runtimeconfig.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\singleton\ChocolateBoiler.ConsoleApp\bin\Debug\netcoreapp2.1\ChocolateBoiler.ConsoleApp.runtimeconfig.dev.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\singleton\ChocolateBoiler.ConsoleApp\bin\Debug\netcoreapp2.1\ChocolateBoiler.ConsoleApp.dll
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\singleton\ChocolateBoiler.ConsoleApp\bin\Debug\netcoreapp2.1\ChocolateBoiler.ConsoleApp.pdb
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\singleton\ChocolateBoiler.ConsoleApp\obj\Debug\netcoreapp2.1\ChocolateBoiler.ConsoleApp.dll
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\singleton\ChocolateBoiler.ConsoleApp\obj\Debug\netcoreapp2.1\ChocolateBoiler.ConsoleApp.pdb

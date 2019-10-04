@@ -1,0 +1,11 @@
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\decorator\Starbuzz.ConsoleApp\bin\Debug\netcoreapp2.1\Starbuzz.ConsoleApp.deps.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\decorator\Starbuzz.ConsoleApp\bin\Debug\netcoreapp2.1\Starbuzz.ConsoleApp.runtimeconfig.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\decorator\Starbuzz.ConsoleApp\bin\Debug\netcoreapp2.1\Starbuzz.ConsoleApp.runtimeconfig.dev.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\decorator\Starbuzz.ConsoleApp\bin\Debug\netcoreapp2.1\Starbuzz.ConsoleApp.dll
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\decorator\Starbuzz.ConsoleApp\bin\Debug\netcoreapp2.1\Starbuzz.ConsoleApp.pdb
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\decorator\Starbuzz.ConsoleApp\obj\Debug\netcoreapp2.1\Starbuzz.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\decorator\Starbuzz.ConsoleApp\obj\Debug\netcoreapp2.1\Starbuzz.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\decorator\Starbuzz.ConsoleApp\obj\Debug\netcoreapp2.1\Starbuzz.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\decorator\Starbuzz.ConsoleApp\obj\Debug\netcoreapp2.1\Starbuzz.ConsoleApp.AssemblyInfo.cs
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\decorator\Starbuzz.ConsoleApp\obj\Debug\netcoreapp2.1\Starbuzz.ConsoleApp.dll
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\decorator\Starbuzz.ConsoleApp\obj\Debug\netcoreapp2.1\Starbuzz.ConsoleApp.pdb

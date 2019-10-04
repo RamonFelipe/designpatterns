@@ -1,0 +1,11 @@
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\command\bin\Debug\netcoreapp2.1\command.deps.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\command\bin\Debug\netcoreapp2.1\command.runtimeconfig.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\command\bin\Debug\netcoreapp2.1\command.runtimeconfig.dev.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\command\bin\Debug\netcoreapp2.1\command.dll
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\command\bin\Debug\netcoreapp2.1\command.pdb
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\command\obj\Debug\netcoreapp2.1\command.csprojAssemblyReference.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\command\obj\Debug\netcoreapp2.1\command.csproj.CoreCompileInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\command\obj\Debug\netcoreapp2.1\command.AssemblyInfoInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\command\obj\Debug\netcoreapp2.1\command.AssemblyInfo.cs
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\command\obj\Debug\netcoreapp2.1\command.dll
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\command\obj\Debug\netcoreapp2.1\command.pdb

@@ -1,0 +1,11 @@
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\observer\WeatherStation.ConsoleApp\bin\Debug\netcoreapp2.1\WeatherStation.ConsoleApp.deps.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\observer\WeatherStation.ConsoleApp\bin\Debug\netcoreapp2.1\WeatherStation.ConsoleApp.runtimeconfig.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\observer\WeatherStation.ConsoleApp\bin\Debug\netcoreapp2.1\WeatherStation.ConsoleApp.runtimeconfig.dev.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\observer\WeatherStation.ConsoleApp\bin\Debug\netcoreapp2.1\WeatherStation.ConsoleApp.dll
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\observer\WeatherStation.ConsoleApp\bin\Debug\netcoreapp2.1\WeatherStation.ConsoleApp.pdb
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\observer\WeatherStation.ConsoleApp\obj\Debug\netcoreapp2.1\WeatherStation.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\observer\WeatherStation.ConsoleApp\obj\Debug\netcoreapp2.1\WeatherStation.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\observer\WeatherStation.ConsoleApp\obj\Debug\netcoreapp2.1\WeatherStation.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\observer\WeatherStation.ConsoleApp\obj\Debug\netcoreapp2.1\WeatherStation.ConsoleApp.AssemblyInfo.cs
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\observer\WeatherStation.ConsoleApp\obj\Debug\netcoreapp2.1\WeatherStation.ConsoleApp.dll
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\observer\WeatherStation.ConsoleApp\obj\Debug\netcoreapp2.1\WeatherStation.ConsoleApp.pdb

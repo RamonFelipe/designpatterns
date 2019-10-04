@@ -1,0 +1,11 @@
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\iterator\MenuTestDrive\obj\Debug\netcoreapp2.2\MenuTestDrive.csprojAssemblyReference.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\iterator\MenuTestDrive\obj\Debug\netcoreapp2.2\MenuTestDrive.csproj.CoreCompileInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\iterator\MenuTestDrive\obj\Debug\netcoreapp2.2\MenuTestDrive.AssemblyInfoInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\iterator\MenuTestDrive\obj\Debug\netcoreapp2.2\MenuTestDrive.AssemblyInfo.cs
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\iterator\MenuTestDrive\bin\Debug\netcoreapp2.2\MenuTestDrive.deps.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\iterator\MenuTestDrive\bin\Debug\netcoreapp2.2\MenuTestDrive.runtimeconfig.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\iterator\MenuTestDrive\bin\Debug\netcoreapp2.2\MenuTestDrive.runtimeconfig.dev.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\iterator\MenuTestDrive\bin\Debug\netcoreapp2.2\MenuTestDrive.dll
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\iterator\MenuTestDrive\bin\Debug\netcoreapp2.2\MenuTestDrive.pdb
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\iterator\MenuTestDrive\obj\Debug\netcoreapp2.2\MenuTestDrive.dll
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\iterator\MenuTestDrive\obj\Debug\netcoreapp2.2\MenuTestDrive.pdb

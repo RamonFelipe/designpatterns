@@ -1,0 +1,11 @@
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.ConsoleApp\obj\Debug\netcoreapp2.1\Strategy.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.ConsoleApp\obj\Debug\netcoreapp2.1\Strategy.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.ConsoleApp\obj\Debug\netcoreapp2.1\Strategy.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.ConsoleApp\obj\Debug\netcoreapp2.1\Strategy.ConsoleApp.AssemblyInfo.cs
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.ConsoleApp\bin\Debug\netcoreapp2.1\Strategy.ConsoleApp.deps.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.ConsoleApp\bin\Debug\netcoreapp2.1\Strategy.ConsoleApp.runtimeconfig.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.ConsoleApp\bin\Debug\netcoreapp2.1\Strategy.ConsoleApp.runtimeconfig.dev.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.ConsoleApp\bin\Debug\netcoreapp2.1\Strategy.ConsoleApp.dll
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.ConsoleApp\bin\Debug\netcoreapp2.1\Strategy.ConsoleApp.pdb
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.ConsoleApp\obj\Debug\netcoreapp2.1\Strategy.ConsoleApp.dll
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.ConsoleApp\obj\Debug\netcoreapp2.1\Strategy.ConsoleApp.pdb

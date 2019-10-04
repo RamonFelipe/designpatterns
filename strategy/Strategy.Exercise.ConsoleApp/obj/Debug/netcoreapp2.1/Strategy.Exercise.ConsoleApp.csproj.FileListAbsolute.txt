@@ -1,0 +1,11 @@
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.Exercise.ConsoleApp\bin\Debug\netcoreapp2.1\Strategy.Exercise.ConsoleApp.deps.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.Exercise.ConsoleApp\bin\Debug\netcoreapp2.1\Strategy.Exercise.ConsoleApp.runtimeconfig.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.Exercise.ConsoleApp\bin\Debug\netcoreapp2.1\Strategy.Exercise.ConsoleApp.runtimeconfig.dev.json
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.Exercise.ConsoleApp\bin\Debug\netcoreapp2.1\Strategy.Exercise.ConsoleApp.dll
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.Exercise.ConsoleApp\bin\Debug\netcoreapp2.1\Strategy.Exercise.ConsoleApp.pdb
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.Exercise.ConsoleApp\obj\Debug\netcoreapp2.1\Strategy.Exercise.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.Exercise.ConsoleApp\obj\Debug\netcoreapp2.1\Strategy.Exercise.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.Exercise.ConsoleApp\obj\Debug\netcoreapp2.1\Strategy.Exercise.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.Exercise.ConsoleApp\obj\Debug\netcoreapp2.1\Strategy.Exercise.ConsoleApp.AssemblyInfo.cs
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.Exercise.ConsoleApp\obj\Debug\netcoreapp2.1\Strategy.Exercise.ConsoleApp.dll
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\strategy\Strategy.Exercise.ConsoleApp\obj\Debug\netcoreapp2.1\Strategy.Exercise.ConsoleApp.pdb

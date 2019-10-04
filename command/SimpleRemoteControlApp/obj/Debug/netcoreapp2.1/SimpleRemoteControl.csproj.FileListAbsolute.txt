@@ -1,0 +1,4 @@
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\command\SimpleRemoteControl\obj\Debug\netcoreapp2.1\SimpleRemoteControl.csprojAssemblyReference.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\command\SimpleRemoteControl\obj\Debug\netcoreapp2.1\SimpleRemoteControl.csproj.CoreCompileInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\command\SimpleRemoteControl\obj\Debug\netcoreapp2.1\SimpleRemoteControl.AssemblyInfoInputs.cache
+C:\Users\ramon.silva\source\repos\estudo\designpatterns\command\SimpleRemoteControl\obj\Debug\netcoreapp2.1\SimpleRemoteControl.AssemblyInfo.cs
